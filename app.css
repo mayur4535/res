@@ -9,7 +9,9 @@
 
 
 
-.resistor-form label{width:100%}.body {background:#4CAF50}.resistor-form select.black{color:#fff;background-color:#000}.resistor-form select.brown{color:#fff;background-color:brown}.resistor-form select.red{color:#fff;background-color:red}.resistor-form select.orange{color:#fff;background-color:orange}.resistor-form select.yellow{color:#000;background-color:#ff0}.resistor-form select.green{color:#fff;background-color:green}.resistor-form select.blue{color:#fff;background-color:blue}.resistor-form select.violet{color:#fff;background-color:violet}.resistor-form select.gray{color:#fff;background-color:gray}.resistor-form select.white{color:#000;background-color:#fff}.resistor-form select.gold{color:#fff;background-color:gold}.resistor-form select.silver{color:#fff;background-color:silver}
+.resistor-form label{width:100%}.body{
+  background-color: #4CAF50;
+}.resistor-form select.black{color:#fff;background-color:#000}.resistor-form select.brown{color:#fff;background-color:brown}.resistor-form select.red{color:#fff;background-color:red}.resistor-form select.orange{color:#fff;background-color:orange}.resistor-form select.yellow{color:#000;background-color:#ff0}.resistor-form select.green{color:#fff;background-color:green}.resistor-form select.blue{color:#fff;background-color:blue}.resistor-form select.violet{color:#fff;background-color:violet}.resistor-form select.gray{color:#fff;background-color:gray}.resistor-form select.white{color:#000;background-color:#fff}.resistor-form select.gold{color:#fff;background-color:gold}.resistor-form select.silver{color:#fff;background-color:silver}
 /*!
  * Bootstrap v4.0.0-alpha.5 (https://getbootstrap.com)
  * Copyright 2011-2016 The Bootstrap Authors
